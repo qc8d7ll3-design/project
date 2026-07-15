@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>将进酒</title>
+        <author ref="https://www.wikidata.org/entity/Q7071">Li Bai</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Student project. Public domain.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A poem by Li Bai.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <head>将进酒</head>
+        <lg type="stanza">
+          <l>君不见黄河之水天上来，奔流到海不复回。</l>
+          <l>君不见高堂明镜悲白发，朝如青丝暮成雪。</l>
+          <l>人生得意须尽欢，莫使金樽空对月。</l>
+          <l>天生我材必有用，千金散尽还复来。</l>
+          <l>烹羊宰牛且为乐，会须一饮三百杯。</l>
+          <l>岑夫子，丹丘生，将进酒，杯莫停。</l>
+          <l>与君歌一曲，请君为我倾耳听。</l>
+          <l>钟鼓馔玉不足贵，但愿长醉不愿醒。</l>
+          <l>古来圣贤皆寂寞，惟有饮者留其名。</l>
+          <l>陈王昔时宴平乐，斗酒十千恣欢谑。</l>
+          <l>主人何为言少钱，径须沽取对君酌。</l>
+          <l>五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
