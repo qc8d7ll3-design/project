@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>月下独酌·其一</title>
+        <author ref="https://www.wikidata.org/entity/Q7071">Li Bai</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Student project. Public domain.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A poem by Li Bai.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="poem">
+        <head>月下独酌·其一</head>
+
+        <lg type="stanza">
+          <l>花間一壺酒</l>
+          <l>獨酌無相親</l>
+          <l>舉杯邀明月</l>
+          <l>對影成三人</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>月既不解飲</l>
+          <l>影徒隨我身</l>
+          <l>暫伴月將影</l>
+          <l>行樂須及春</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>我歌月徘徊</l>
+          <l>我舞影零亂</l>
+          <l>醒時同交歡</l>
+          <l>醉後各分散</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>永結無情遊</l>
+          <l>相期邈雲漢</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
